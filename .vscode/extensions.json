@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "rocketseat.theme-omni",
+        "prisma.prisma",
+        "rangav.vscode-thunder-client",
+        "vscode-icons-team.vscode-icons",
+        "mikestead.dotenv",
+        "ms-vscode.vscode-typescript-next",
+        "aabegg.vscode-bcrypt",
+        "qwtel.sqlite-viewer"
+    ]
+}
